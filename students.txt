@@ -1,1 +1,2 @@
-afzaaal ahmed,1,BSSE
+gul,123,wax
+gul,133,cleae
