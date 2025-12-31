@@ -1,4 +1,1 @@
-afzii,1,12
-khaan,2,13
-khaan,1,xc
-afzhsa,2,gash
+afzaaal ahmed,1,BSSE
