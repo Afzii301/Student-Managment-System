@@ -1,5 +1,1 @@
-gul,123,10
-Gul,1234,10
-ahmed,1432,10
-Gulshare,12345,10
-Muhamdi tyara,123456,10
+Afzal,12345,10,English:30
